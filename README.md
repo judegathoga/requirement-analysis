@@ -110,6 +110,8 @@ Requirement Analysis is a critical phase in the software development lifecycle (
     - Provide a clear visual representation of system functionalities.
     - Help in identifying and organizing system requirements.
     - Facilitate communication among stakeholders and development team.
+- **Use Case Diagram Example:**
+![Booking System Use Case Diagram](alx-booking-uc.png)
 
 ### **Acceptance Criteria**
 
