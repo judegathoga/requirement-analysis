@@ -27,7 +27,7 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 - **Focus Groups:** Holding focus group discussions with selected stakeholders to gather detailed requirements.
 - **Prototyping:** Creating prototypes to help stakeholders visualize the system and refine their requirements.
 
-### **3. Requirement Documentation 📚**
+### **3. Requirement Documentation**
 
 - **Requirement Specification Document:** Creating a detailed document that lists all functional and non-functional requirements.
 - **User Stories:** Writing user stories to describe functionalities from the user’s perspective.
